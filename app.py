@@ -4,24 +4,24 @@ import plotly.express as px
 
 st.set_page_config(page_title="Women Ethnic Search Dashboard", layout="wide")
 
-# Live connection to your cleaned Google Sheet
-SHEET_ID = "1RR51MvctTitn2AAIjB8a-QiyiekrFNA_eYkxQkIrWBU"
-CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
-
-@st.cache_data(ttl=120)
+@st.cache_data
 def load_data():
-    return pd.read_csv(CSV_URL)
+    return pd.read_csv("data.csv")
 
 st.title("👗 Women Ethnic Search Dashboard")
 
 try:
     df = load_data()
 
-    # Convert percentage columns to numerical values
+    # Numeric conversions
+    df['Total_Searches'] = pd.to_numeric(df['Total_Searches'], errors='coerce')
+    df['Units'] = pd.to_numeric(df['Units'], errors='coerce')
+    df['PPVS'] = pd.to_numeric(df['PPVS'], errors='coerce')
+    df['Successful_Search_Sessions'] = pd.to_numeric(df['Successful_Search_Sessions'], errors='coerce')
     df['CTR_num'] = df['CTR'].astype(str).str.rstrip('%').astype(float)
     df['CVR_num'] = df['CVR'].astype(str).str.rstrip('%').astype(float)
 
-    # Sidebar Controls
+    # Sidebar Filter Controls
     st.sidebar.header("Filters")
     selected_dates = st.sidebar.multiselect("Select Date", options=df["Date"].unique(), default=df["Date"].unique())
     selected_verts = st.sidebar.multiselect("Select Vertical", options=df["Vertical"].unique(), default=df["Vertical"].unique())
@@ -29,7 +29,7 @@ try:
     # Apply Selected Filters
     filtered_df = df[df["Date"].isin(selected_dates) & df["Vertical"].isin(selected_verts)]
 
-    # Scorecards
+    # Top Metric Scorecards
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Searches", f"{filtered_df['Total_Searches'].sum():,.0f}")
     c2.metric("Total Units Sold", f"{filtered_df['Units'].sum():,.0f}")
@@ -70,4 +70,4 @@ try:
     st.dataframe(filtered_df, use_container_width=True)
 
 except Exception as e:
-    st.error(f"Error reading Google Sheet data: {e}")
+    st.error(f"Error loading dashboard: {e}")
