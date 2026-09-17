@@ -1,0 +1,49 @@
+Date,Vertical,Store_ID,Store_Name,Vertical_x_StoreID,Total_Searches,Successful_Search_Sessions,PPVS,Units,CTR,CVR,U_Se
+Jul 2026,WomenSari,9og,Women's Sarees,WomenSari 9og,24094573,14239569,80176431,462403,59.10%,0.58%,1.92%
+Jul 2025,WomenSari,9og,Women's Sarees,WomenSari 9og,28325108,15981636,78314290,530630,56.42%,0.68%,1.87%
+Jul 2026,WomenEthnicSet,tys,Women's Ethnic Sets,WomenEthnicSet tys,23865260,13172096,75141496,460325,55.19%,0.61%,1.93%
+Jul 2025,WomenEthnicSet,tys,Women's Ethnic Sets,WomenEthnicSet tys,31750986,16981187,83031582,535626,53.48%,0.65%,1.69%
+Jul 2026,WomenKurtaAndKurti,rkt,Women's Kurtas,WomenKurtaAndKurti rkt,14453925,7956791,34668747,293837,55.05%,0.85%,2.03%
+Jul 2025,WomenKurtaAndKurti,rkt,Women's Kurtas,WomenKurtaAndKurti rkt,17514724,9530576,39548439,372619,54.41%,0.94%,2.13%
+Jul 2026,WomenSalwarKurtaDupatta,tys,Women's Ethnic Sets,WomenSalwarKurtaDupatta tys,6008843,4089252,25129876,130349,68.05%,0.52%,2.17%
+Jul 2025,WomenSalwarKurtaDupatta,tys,Women's Ethnic Sets,WomenSalwarKurtaDupatta tys,5202924,3460416,19960551,108079,66.51%,0.54%,2.08%
+Jul 2026,WomenEthnicSet,itg,Ethnic Sets,WomenEthnicSet itg,4896002,2725858,14453341,88192,55.68%,0.61%,1.80%
+Jul 2025,WomenEthnicSet,itg,Ethnic Sets,WomenEthnicSet itg,2373840,1197874,5409205,32881,50.46%,0.61%,1.39%
+Jul 2026,WomenKurtaAndKurti,cib,Kurtas,WomenKurtaAndKurti cib,4865709,2630385,10570715,87874,54.06%,0.83%,1.81%
+Jul 2025,WomenKurtaAndKurti,cib,Kurtas,WomenKurtaAndKurti cib,3001623,1628628,5941706,53879,54.26%,0.91%,1.79%
+Jul 2026,WomenSari,zpd,Sarees,WomenSari zpd,4792013,2746972,14645405,94313,57.32%,0.64%,1.97%
+Jul 2025,WomenSari,zpd,Sarees,WomenSari zpd,3505914,2163194,9782142,76659,61.70%,0.78%,2.19%
+Jul 2026,WomenBlouse,hny,Woman's Blouse,WomenBlouse hny,3617839,2089691,10153377,83658,57.76%,0.82%,2.31%
+Jul 2025,WomenBlouse,hny,Woman's Blouse,WomenBlouse hny,4427167,2383831,10213459,89148,53.85%,0.87%,2.01%
+Jul 2026,WomenFabric,ms4,Women's Dress Materials,WomenFabric ms4,2774201,1403619,6848006,43447,50.60%,0.63%,1.57%
+Jul 2025,WomenFabric,ms4,Women's Dress Materials,WomenFabric ms4,2962288,1488461,6492972,46100,50.25%,0.71%,1.56%
+Jul 2026,WomenEthnicSet,cfv,Kurtas; Ethnic Sets and Bottoms,WomenEthnicSet cfv,2251534,1166737,6164045,33625,51.82%,0.55%,1.49%
+Jul 2025,WomenEthnicSet,cfv,Kurtas; Ethnic Sets and Bottoms,WomenEthnicSet cfv,2578556,1181148,6392019,37742,45.81%,0.59%,1.46%
+Jul 2026,WomenEthnicSet,clo,Clothing and Accessories,WomenEthnicSet clo,1986854,917215,6.10E+06,37751,46.16%,0.62%,1.90%
+Jul 2025,WomenEthnicSet,clo,Clothing and Accessories,WomenEthnicSet clo,2058796,869877,4952768,31160,42.25%,0.63%,1.51%
+Jul 2026,WomenLehengaCholi,wrp,Women's Lehenga Cholis,WomenLehengaCholi wrp,1970204,1108764,4585521,11924,56.28%,0.26%,0.61%
+Jul 2025,WomenLehengaCholi,wrp,Women's Lehenga Cholis,WomenLehengaCholi wrp,2624469,1393236,5610781,14955,53.09%,0.27%,0.57%
+Jul 2026,WomenSalwarKurtaDupatta,itg,Ethnic Sets,WomenSalwarKurtaDupatta itg,1291014,823382,4983718,26720,63.78%,0.54%,2.07%
+Jul 2025,WomenSalwarKurtaDupatta,itg,Ethnic Sets,WomenSalwarKurtaDupatta itg,346914,217752,1301516,7145,62.77%,0.55%,2.06%
+Jul 2026,WomenEthnicGown,0xx,WomenEthnicGown,WomenEthnicGown 0xx,1192827,719277,3054168,15142,60.30%,0.50%,1.27%
+Jul 2025,WomenEthnicGown,0xx,WomenEthnicGown,WomenEthnicGown 0xx,2448372,1226003,4623820,25177,50.07%,0.54%,1.03%
+Jul 2026,WomenKurtaAndKurti,cfv,Kurtas; Ethnic Sets and Bottoms,WomenKurtaAndKurti cfv,1042691,402618,2242075,18586,38.61%,0.83%,1.78%
+Jul 2025,WomenKurtaAndKurti,cfv,Kurtas; Ethnic Sets and Bottoms,WomenKurtaAndKurti cfv,1237732,552605,3042188,25772,44.65%,0.85%,2.08%
+Jul 2026,WomenBlouse,5n9,Blouses,WomenBlouse 5n9,1039833,589269,2842547,25213,56.67%,0.89%,2.42%
+Jul 2025,WomenBlouse,5n9,Blouses,WomenBlouse 5n9,456748,247336,992538,8643,54.15%,0.87%,1.89%
+Jul 2026,WomenFabric,qfi,Fabrics,WomenFabric qfi,1035611,549358,2164887,12688,53.05%,0.59%,1.23%
+Jul 2025,WomenFabric,qfi,Fabrics,WomenFabric qfi,1115972,495768,1765790,11698,44.42%,0.66%,1.05%
+Jul 2026,WomenDupatta,pjy,WomenDupatta,WomenDupatta pjy,1015991,591580,2543954,25928,58.23%,1.02%,2.55%
+Jul 2025,WomenDupatta,pjy,WomenDupatta,WomenDupatta pjy,1459907,826383,3288245,39238,56.61%,1.19%,2.69%
+Jul 2026,WomenFabric,clo,Clothing and Accessories,WomenFabric clo,955522,506390,2187553,15185,53.00%,0.69%,1.59%
+Jul 2025,WomenFabric,clo,Clothing and Accessories,WomenFabric clo,990373,433658,1556381,11230,43.79%,0.72%,1.13%
+Jul 2026,WomenEthnicPalazzo,mn6,Palazzos,WomenEthnicPalazzo mn6,881659,442866,1511973,21887,50.23%,1.45%,2.48%
+Jul 2025,WomenEthnicPalazzo,mn6,Palazzos,WomenEthnicPalazzo mn6,512694,270189,845191,12721,52.70%,1.51%,2.48%
+Jul 2026,WomenKurtaAndKurti,clo,Clothing and Accessories,WomenKurtaAndKurti clo,814663,256748,2147618,20177,31.52%,0.94%,2.48%
+Jul 2025,WomenKurtaAndKurti,clo,Clothing and Accessories,WomenKurtaAndKurti clo,773376,305728,2251389,21413,39.53%,0.95%,2.77%
+Jul 2026,WomenLehengaCholi,hlg,Lehenga Cholis,WomenLehengaCholi hlg,813763,435795,1653356,4713,53.55%,0.29%,0.58%
+Jul 2025,WomenLehengaCholi,hlg,Lehenga Cholis,WomenLehengaCholi hlg,737972,335625,1165806,3840,45.48%,0.33%,0.52%
+Jul 2026,WomenEthnicGown,odx,0,WomenEthnicGown odx,771300,528813,2287326,14244,68.56%,0.62%,1.85%
+Jul 2025,WomenEthnicGown,odx,0,WomenEthnicGown odx,1236485,577136,2152611,14359,46.68%,0.67%,1.16%
+Jul 2026,WomenEthnicDress,jhy,0,WomenEthnicDress jhy,706337,359116,1966369,11555,50.84%,0.59%,1.64%
+Jul 2025,WomenEthnicDress,jhy,0,WomenEthnicDress jhy,1085468,501737,2416815,12320,46.22%,0.51%,1.13%
